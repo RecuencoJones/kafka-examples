@@ -1,0 +1,12 @@
+{
+  "name": "consumer-kafka-node",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "6.2.0",
+    "kafka-node": "4.1.0"
+  }
+}
