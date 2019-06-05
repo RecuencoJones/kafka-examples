@@ -1,5 +1,5 @@
 {
-  "name": "consumer-node",
+  "name": "consumer-node-sinek",
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "dotenv": "6.2.0",
-    "kafka-node": "4.1.0"
+    "sinek": "7.29.3"
   }
 }

@@ -1,5 +1,7 @@
 # NodeJS consumer
 
+Using [kafka-node](https://github.com/SOHU-Co/kafka-node) library.
+
 ## Run
 
 ```
