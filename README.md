@@ -50,7 +50,10 @@ KAFKA_TOPIC=t1
 
 Check each directory for a guide with further information
 
+- [.Net](./consumer-dotnet)
+- [Go](./consumer-go)
 - [Kotlin](./consumer-kotlin)
 - [NodeJS](./consumer-node)
+- [NodeJS (sinek)](./consumer-node-sinek)
 - [Python](./consumer-python)
 - [Ruby](./consumer-ruby)
